@@ -1,0 +1,98 @@
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 7/11/2018
+Analista: Usuário do Windows                                          Data de revisão do modelo: 7/11/2018
+
+Replicação terminada no tempo de      : 360.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Aplicacoes.VATime                           6.0250     (Insuf)    .12504     86.420        136    
+Aplicacoes.NVATime                          .00000     (Insuf)    .00000     .00000        136    
+Aplicacoes.WaitTime                         21.328     (Insuf)    .00000     487.39        136    
+Aplicacoes.TranTime                         .00000     (Insuf)    .00000     .00000        136    
+Aplicacoes.OtherTime                        .00000     (Insuf)    .00000     .00000        136    
+Aplicacoes.TotalTime                        8.4166     (Insuf)    .35529     100.52        136    
+Teoricos.VATime                             11.966     (Insuf)    3.7884     91.902         49    
+Teoricos.NVATime                            .00000     (Insuf)    .00000     .00000         49    
+Teoricos.WaitTime                           42.402     (Insuf)    .00000     741.29         49    
+Teoricos.TranTime                           .00000     (Insuf)    .00000     .00000         49    
+Teoricos.OtherTime                          .00000     (Insuf)    .00000     .00000         49    
+Teoricos.TotalTime                          30.677     (Insuf)    4.2340     133.62         49    
+Junta 8 Artigos para Publicação.Queue.Wait  12.964     (Insuf)    .00000     74.105         88    
+Revisor Trabalho Teórico1.Queue.WaitingTim  7.9415     (Insuf)    .00000     36.353         88    
+Revisor Trabalho Teórico3.Queue.WaitingTim  3.8713     (Insuf)    .00000     16.676         82    
+Revisão Final.Queue.WaitingTime             22.801     (Insuf)    .00000     66.171         89    
+Revisor de Aplicações 1.Queue.WaitingTime       --         --         --         --          0
+Revisor de Aplicações2.Queue.WaitingTime    .84525     (Insuf)    .00000     6.4301        182    
+Revisor de Aplicações1.Queue.WaitingTime    1.0185     (Insuf)    .00000     9.6909        183    
+Revisor Trabalho Teórico2.Queue.WaitingTim  6.3657     (Insuf)    .00000     29.130         83    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Aplicacoes.WIP                              7.4460     (Corr)     .00000     18.000     2.0000    
+Teoricos.WIP                                10.759     (Insuf)    .00000     20.000     7.0000    
+Revisor Final.NumberBusy                    .89813     (Insuf)    .00000     1.0000     1.0000    
+Revisor Final.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Revisor Final.Utilization                   .89813     (Insuf)    .00000     1.0000     1.0000    
+Revisor de Aplicações 2.NumberBusy          .51050     (Insuf)    .00000     1.0000     .00000    
+Revisor de Aplicações 2.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Revisor de Aplicações 2.Utilization         .51050     (Insuf)    .00000     1.0000     .00000    
+Revisor de Aplicações 1.NumberBusy          .50750     (Insuf)    .00000     1.0000     1.0000    
+Revisor de Aplicações 1.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Revisor de Aplicações 1.Utilization         .50750     (Insuf)    .00000     1.0000     1.0000    
+Revisor Teórico3.NumberBusy                 .68333     (Insuf)    .00000     1.0000     .00000    
+Revisor Teórico3.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Revisor Teórico3.Utilization                .68333     (Insuf)    .00000     1.0000     .00000    
+Revisor Teórico2.NumberBusy                 .71951     (Insuf)    .00000     1.0000     1.0000    
+Revisor Teórico2.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Revisor Teórico2.Utilization                .71951     (Insuf)    .00000     1.0000     1.0000    
+Revisor Teórico1.NumberBusy                 .71377     (Insuf)    .00000     1.0000     1.0000    
+Revisor Teórico1.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Revisor Teórico1.Utilization                .71377     (Insuf)    .00000     1.0000     1.0000    
+Junta 8 Artigos para Publicação.Queue.Numb  3.1691     (Insuf)    .00000     8.0000     .00000    
+Revisor Trabalho Teórico1.Queue.NumberInQu  1.9412     (Insuf)    .00000     10.000     .00000    
+Revisor Trabalho Teórico3.Queue.NumberInQu  .88180     (Insuf)    .00000     5.0000     .00000    
+Revisão Final.Queue.NumberInQueue           5.6437     (Insuf)    .00000     17.000     1.0000    
+Revisor de Aplicações 1.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
+Revisor de Aplicações2.Queue.NumberInQueue  .42732     (Insuf)    .00000     5.0000     .00000    
+Revisor de Aplicações1.Queue.NumberInQueue  .51775     (Insuf)    .00000     8.0000     .00000    
+Revisor Trabalho Teórico2.Queue.NumberInQu  1.5914     (Insuf)    .00000     8.0000     4.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Aplicacoes.NumberIn                         192.00    
+Aplicacoes.NumberOut                        190.00    
+Teoricos.NumberIn                           90.000    
+Teoricos.NumberOut                          83.000    
+Revisor Final.NumberSeized                  89.000    
+Revisor Final.ScheduledUtilization          .89813    
+Revisor de Aplicações 2.NumberSeized        182.00    
+Revisor de Aplicações 2.ScheduledUtilizati  .51050    
+Revisor de Aplicações 1.NumberSeized        183.00    
+Revisor de Aplicações 1.ScheduledUtilizati  .50750    
+Revisor Teórico3.NumberSeized               82.000    
+Revisor Teórico3.ScheduledUtilization       .68333    
+Revisor Teórico2.NumberSeized               83.000    
+Revisor Teórico2.ScheduledUtilization       .71951    
+Revisor Teórico1.NumberSeized               88.000    
+Revisor Teórico1.ScheduledUtilization       .71377    
+System.NumberOut                            185.00    
+
+
+Tempo executando a simulação: 0.03 minutos.
+Simulação completada.

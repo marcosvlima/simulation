@@ -1,0 +1,33 @@
+[RESOURCES]
+Revisor Final
+Revisor de Aplicações 2
+Revisor de Aplicações 1
+Revisor Teórico3
+Revisor Teórico2
+Revisor Teórico1
+[VARIABLES]
+Artigos Recusados.NumberOut
+Revisor Trabalho Teórico1.NumberOut
+Revisor Trabalho Teórico1.NumberIn
+Revisor de Aplicações1.NumberIn
+Revisor de Aplicações1.NumberOut
+Revisor de Aplicações2.NumberIn
+Revisor de Aplicações2.NumberOut
+Publicações da Revista.NumberOut
+Revisão Final.NumberIn
+Junta 8 Artigos para Publicação.NumberOut
+Trabalho de Aplicação Aceito?.NumberOut True
+Revisão Final.NumberOut
+Trabalho de Aplicação Aceito?.NumberOut False
+Chegada de Trabalhos Teóricos.NumberOut
+Trabalho Teórico Aceito?.NumberOut True
+Revisor Trabalho Teórico2.NumberOut
+Revisor Trabalho Teórico2.NumberIn
+É um Trabalho Indicado?.NumberOut False
+É um Trabalho Indicado?.NumberOut True
+Trabalho Teórico Aceito?.NumberOut False
+Revisor Trabalho Teórico3.NumberIn
+Revisor Trabalho Teórico3.NumberOut
+Chegada de Trabalhos sobre Aplicações.NumberOut
+O Trabalho é uma aplicação?.NumberOut False
+O Trabalho é uma aplicação?.NumberOut True
